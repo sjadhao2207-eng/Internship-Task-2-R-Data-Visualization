@@ -1,0 +1,16 @@
+"Pclass","AgeGroup","Survival_Rate","Passengers"
+"First Class","Child",75,4
+"First Class","Teenager",91.6666666666667,12
+"First Class","Young Adult",66.6666666666667,96
+"First Class","Adult",61.1111111111111,90
+"First Class","Senior",21.4285714285714,14
+"Second Class","Child",100,17
+"Second Class","Teenager",50,12
+"Second Class","Young Adult",42.8571428571429,105
+"Second Class","Adult",38.2978723404255,47
+"Second Class","Senior",33.3333333333333,3
+"Third Class","Child",41.6666666666667,48
+"Third Class","Teenager",28.2608695652174,46
+"Third Class","Young Adult",23.9520958083832,334
+"Third Class","Adult",8.62068965517241,58
+"Third Class","Senior",20,5
